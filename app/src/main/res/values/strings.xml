@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Chat</string>
+    <string name="database_URL">https://random-chat-591d8-default-rtdb.asia-southeast1.firebasedatabase.app/</string>
+</resources>
